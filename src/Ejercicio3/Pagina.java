@@ -18,6 +18,10 @@ public void setNumero(int numero) {
 	this.numero = numero;
 }
 
+public void setNumerodeCasos() {
+	
+}
+
 
  public Pagina (String contenido, int numero){
 	this.contenido=contenido;
