@@ -22,6 +22,9 @@ public void setNumerodeCasos() {
 	
 }
 
+public void ramaUno() {
+	
+}
 
  public Pagina (String contenido, int numero){
 	this.contenido=contenido;

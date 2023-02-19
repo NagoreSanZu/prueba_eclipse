@@ -22,6 +22,9 @@ public class Libro {
 	public long getIsbn() {
 		return isbn;
 	}
+	public void ramaUno() {
+		
+	}
 
 	public void setIsbn(long isbn) {
 		this.isbn = isbn;
