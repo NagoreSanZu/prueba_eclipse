@@ -26,6 +26,10 @@ public void ramaUno() {
 	
 }
 
+public void ramados() {
+	
+}
+
  public Pagina (String contenido, int numero){
 	this.contenido=contenido;
 	this.numero=numero;

@@ -26,6 +26,10 @@ public class Libro {
 		
 	}
 
+	
+	public void ramados() {
+		
+	}
 	public void setIsbn(long isbn) {
 		this.isbn = isbn;
 	}
